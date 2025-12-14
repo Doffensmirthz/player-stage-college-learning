@@ -10,11 +10,11 @@ To compile the client, use the following command:
 gcc -std=c99 main.c -o main `pkg-config --cflags --libs playerc`
 ```
 
-#Environments
+# Environments
 
 The environments are based on everything.world. To use them, you need to update the worldfile inside the everything.cfg configuration file.
 
-#Usage
+# Usage
 
 Launch Player with the appropriate configuration file:
 ```
