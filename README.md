@@ -27,7 +27,8 @@ gcc -std=c99 main.c -o main `pkg-config --cflags --libs playerc`
 
 # Environments
 
-The environments are based on everything.world. To use them, you need to update the worldfile inside the everything.cfg configuration file.
+The environments are based on everything.world included in the player stage 2.1.1. To use them, you need to update the worldfile inside
+the [everything.cfg](everything.cfg) configuration file.
 
 # Usage
 
