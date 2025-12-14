@@ -8,7 +8,7 @@ To compile the client, use the following command:
 
 ```
 gcc -std=c99 main.c -o main `pkg-config --cflags --libs playerc`
-´´´
+```
 
 #Environments
 
