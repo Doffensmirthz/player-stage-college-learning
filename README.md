@@ -4,7 +4,7 @@ A set of utilities to use at **player-stage 2.1.1**, designed to test both **VFH
 
 ## How to configure
 
-Set the objective at `main.c` gx,gy and ga.
+Set the objective at [`main.c`](main.c) gx,gy and ga.
 Set the endpoint (ip/port) at create client.
 Compile and decide to use the shell or a script (trigger.sh) to execute both commands.
 
