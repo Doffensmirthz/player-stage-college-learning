@@ -51,4 +51,5 @@ I tried implementing the `player everything.cfg` at main.c using system and fork
 that the file descriptors from the child where intrusive to the father's) and ended up using [shell scripting](trigger.sh).
 Also i wanted to let you know that inside the current [everything.cfg](everything.cfg) the driver implemented is VFH but the parameters are **incredibly wrong**
 if you intend to use it i highly recomend to use at the very least both cutoff parameters included in the [player stage 2.1.1 wiki](https://playerstage.sourceforge.net/doc/Player-2.1.0/player/group__driver__vfh.html)
-as well as changing the safe distances (to somewhere around 0.25-0.4) and increasing the max turn speeds
+as well as changing the safe distances (to somewhere around 0.25-0.4) and increasing the max turn speeds. 
+Or so at the very least in the simulation.
