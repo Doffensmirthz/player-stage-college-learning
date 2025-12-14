@@ -5,7 +5,7 @@ PLAYER_PID=$!
 
 sleep 10
 
-/home/ic/code/clientev3
+/home/ic/code/client
 
 kill $PLAYER_PID
 wait $PLAYER_PID
