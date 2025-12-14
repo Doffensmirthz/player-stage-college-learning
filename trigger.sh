@@ -1,5 +1,4 @@
 #!/bin/bash
-# lanzar player
 player /home/ic/installations/player-stage/stage-2.1.1/worlds/everything.cfg & 
 PLAYER_PID=$!
 
