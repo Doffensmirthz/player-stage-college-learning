@@ -2,6 +2,17 @@
 
 A set of utilities to use at **player-stage 2.1.1**, designed to test both **VFH** and **ND**.
 
+## How to configure
+
+# The position2d driver
+
+
+Configure the `.cfg` file so that `position2d1` (or `position2dX`, where `X` is the 
+second parameter passed to `playerc_position2d_create` in `main.c`) is mapped to a
+commandable driver (for example, `ND` or `VFH`).
+
+
+
 ## Compilation
 
 To compile the client, use the following command:
